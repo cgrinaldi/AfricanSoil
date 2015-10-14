@@ -1,2 +1,2 @@
-# AfricanSoil
-Predict physical and chemical properties of soil using spectral measurements
+# African Soil Competition
+Predict the physical and chemical properties of soil using spectral measurements
